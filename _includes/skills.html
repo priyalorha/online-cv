@@ -1,13 +1,13 @@
 
 {% assign languages = site.data.data.sidebar.skills %}
 {% if skills %}
-<div class="skills-container container-block">
+<div class="languages-container container-block">
 
   <h2 class="container-block-title">
     {{ skills.title }}
   </h2>
 
-  <ul class="list-unstyled">
+  <ul class="list-unstyled interests-list">
     {% for skill in skills.toolset %}
     <li>
       {{ skill.name }}

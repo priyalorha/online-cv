@@ -92,10 +92,12 @@ experiences:
           Contributed to "ShubhLoans" product using Python, Flask, Pandas, MongoDB, AWS Lambdas, Spring Boot, and SQL.
             - Specialized in data modeling, munging, reporting, and analytical dashboards.
             - Designed micro-services for scalability.
-      - roles: Senior Software Engineer
+
+      - role: Senior Software Engineer
         time: 2018-2019
         company: Monty Telecom Development, Bangalore, India 
-      - roles: Senior Systems Engineer
+        
+      - role: Senior Systems Engineer
         time: 2015-2017
         company: Infosys, India
 

@@ -67,6 +67,19 @@ education:
 experiences:
     title: Experiences
     info:
+      - - role: Lead Software developer
+          time: 2024- 2025
+          company: Adyogi, India
+          details: |
+            Utilized technologies such as Java, Python, Django, GCP, SQL, and Karafka to significantly contribute to the development of Fresh Status, an operational availability tool.
+             - Designed and launched a real-time, rule-based notification system that delivered proactive alerts to stakeholders, improving
+              issue response times by 35% and increasing overall operational
+              uptime
+              - Led the end-to-end design and development of scalable data
+                pipelines and ETL workflows to ingest, normalize, and aggregate
+                ad spend data from multiple third-party sources, enabling the
+                generation of comprehensive performance dashboards for
+                clients across diverse verticals
       - role: Senior Software developer
         time: 2021 - Present
         company: Freshworks Technology, India
